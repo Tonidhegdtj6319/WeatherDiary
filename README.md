@@ -26,8 +26,8 @@ GUI-приложение для ведения дневника погоды. П
 
 2. (Опционально) Создайте виртуальное окружение:
    ```bash
-   git clone https://github.com/Tonidhegdtj6319/Training-Planner.git
-   cd training-planner
+   git clone https://github.com/Tonidhegdtj6319/WeatherDiary.git
+   cd watherdiary
    python -m venv venv
    source venv/bin/activate      # на Linux/Mac
    venv\Scripts\activate         # на Windows
